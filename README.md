@@ -1,6 +1,6 @@
 # VPS — journal de bord
 
-> **Repo privé** : tout ce qui concerne le serveur personnel — applications installées
+> **Repo public** : tout ce qui concerne le serveur personnel — applications installées
 > et leur utilité, résumé quotidien des actions (installations, modifications, incidents).
 > Mis à jour **automatiquement chaque jour à 23h00** (Europe/Paris) par le VPS lui-même.
 
